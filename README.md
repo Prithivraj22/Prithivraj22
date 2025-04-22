@@ -52,14 +52,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prithivraj22&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prithivraj22&theme=radical" width="45%" />
-</p>
-
----
-
 ### 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/prithiv-raj-k-1616b2259](https://www.linkedin.com/in/prithiv-raj-k-1616b2259)
 - Email: prithiv936@gmail.com
