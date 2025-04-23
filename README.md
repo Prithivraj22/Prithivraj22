@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Prithiv Raj K!</h1>
+<h1 align="center">Hi, I'm Prithiv raj K!</h1>
 <p align="center">🚀 Full Stack Developer | AI & ML Enthusiast | DevOps Learner</p>
 
 <p align="center">
