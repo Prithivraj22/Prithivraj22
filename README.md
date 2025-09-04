@@ -53,7 +53,7 @@
 ---
 
 ### 📫 Let's Connect
-- LinkedIn: [linkedin.com/in/prithiv-raj-k-1616b2259](https://linkedin.com/in/prithiv22)
+- LinkedIn: [linkedin.com/in/prithiv22](https://linkedin.com/in/prithiv22)
 - Email: prithiv936@gmail.com
 
 ---
